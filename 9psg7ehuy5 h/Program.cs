@@ -6,6 +6,7 @@
         {
             Console.WriteLine("anyad");
             Console.WriteLine("Fasz");
+            Console.WriteLine("hu de bedurrantotta neki a bastya");
         }
     }
 }
