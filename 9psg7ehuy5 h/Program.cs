@@ -4,8 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("anyad");
-            Console.WriteLine("Fasz");
+            Console.WriteLine("tesztelem a cuccokat");
             Console.WriteLine("hu de bedurrantotta neki a bastya");
         }
     }
